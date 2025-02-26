@@ -72,3 +72,6 @@ Ahora si hago click en libros me mandara directamente a los libros
  
 
 
+nombre del estudiante: Rafael Andrés alcorro Rodríguez 
+
+asunto: El compañero Carlos Marrugo me sale como colaborador y el nunca me ayudó para hacer el taller de la api ni mucho menos copiarme de el, el semestre pasado le habia prestado mi pc para su proyecto de aula pero cuando él me lo devolvió no tenía nada de él y ahora con el repositorio me sale como colaborador no se qué pasó, el se encuentra al tanto pero  no quiero que usted piense que es plagio
