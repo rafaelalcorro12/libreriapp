@@ -45,12 +45,30 @@ Y listo tendran cargado el proyecto en Visual Studio Code.
 
 
 
-
 Funcionamiento de la app
 
+Despues que tengan el proyecto en su visual studio code podran ver todo lo que tiene el proyecto
 
- Despues de esta inicioado el programa desde visual de inicio les mostrara una bienvenida y una pequeña intro tambien podran observar las opciones donde podran navegar aparte del inicio
+![image](https://github.com/user-attachments/assets/3f3bd2ba-75bf-494c-9859-ff2c6b79c476)
+
+Para iniciarlo es facil con el comando ctrl ñ se le desplegara la terminal de visual donde colocara el siguiente comando ionic serve
+
+![image](https://github.com/user-attachments/assets/ebe29231-180f-4e04-bf72-3f7ec0d7c549)
+
+ Despues de esta inicioado el programa desde visual los mandara directamente a su navegador predeterminando que tenga apenas ejecutado los recibira el inicio de la app les mostrara una bienvenida y una pequeña intro tambien podran observar las opciones donde podran navegar aparte del inicio
  
  ![image](https://github.com/user-attachments/assets/34f651b5-ecad-48fa-9b28-9c7a8dd7173c) 
+
+
+Haciendo click en ver personajes o libros los mandara directamente a esa pagina ejemplo precione ver personajes inmediatamente les mostrara los personajes 
+
+![image](https://github.com/user-attachments/assets/1e8762bb-f607-4e51-8f63-2101945818e5)
+
+Ahora si hago click en libros me mandara directamente a los libros
+
+![image](https://github.com/user-attachments/assets/55d4a03d-34bb-4cb4-9150-b17faa727ad6)
+
+
+ 
 
 
