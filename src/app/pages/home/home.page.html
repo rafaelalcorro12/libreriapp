@@ -1,0 +1,9 @@
+<app-navbar [title]="'Libros'"></app-navbar>
+<ion-content>
+  <ion-list>
+    @for (libro of books; track libro.index) {
+  <app-card-book [book]="libro"></app-card-book>
+    }
+
+  </ion-list>
+</ion-content>

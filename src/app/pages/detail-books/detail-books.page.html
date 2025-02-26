@@ -1,0 +1,27 @@
+<app-navbar [title]="'libro'"></app-navbar>
+
+<ion-content padding>
+  @if(book != null){
+  <ion-card>
+    <img [src]="book.cover" alt="Book Cover">
+    <ion-card-header>
+      <ion-card-title>{{ book.title }}</ion-card-title>
+      <ion-card-subtitle>
+        <ion-badge color="tertiary">{{ book.releaseDate }}</ion-badge>
+      </ion-card-subtitle>
+    </ion-card-header>
+
+    <ion-card-content>
+      <p>{{ book.description }}</p>
+      <ion-chip>
+        <ion-icon name="book"></ion-icon>
+        <ion-label>{{ book.pages }} pages</ion-label>
+      </ion-chip>
+      <ion-chip>
+        <ion-icon name="ribbon"></ion-icon>
+        <ion-label>{{ book.originalTitle }}</ion-label>
+      </ion-chip>
+    </ion-card-content>
+  </ion-card>
+}
+</ion-content>
