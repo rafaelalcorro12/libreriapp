@@ -49,6 +49,8 @@ Y listo tendran cargado el proyecto en Visual Studio Code.
 Funcionamiento de la app
 
 
- Despues de esta inicioado el programa desde visual de inicio les mostrara una bienvenida y una pequeña intro tambien podran observar las opciones que se le ofrecen ![image](https://github.com/user-attachments/assets/34f651b5-ecad-48fa-9b28-9c7a8dd7173c) 
+ Despues de esta inicioado el programa desde visual de inicio les mostrara una bienvenida y una pequeña intro tambien podran observar las opciones donde podran navegar aparte del inicio
+ 
+ ![image](https://github.com/user-attachments/assets/34f651b5-ecad-48fa-9b28-9c7a8dd7173c) 
 
 
