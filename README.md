@@ -16,6 +16,10 @@ Node.js y npm instalados en el sistema.
 Ionic CLI configurado.
 
 
+
+
+
+
 Repositorio de Ionic Nombre del Proyecto: libreriapp Usando Ionic Pasos para Descargar y obtener el proyecto
 
 En el repositorio de Git Hub sale un botón llamado "<>CODE", este despliega una serie de Opciones.
@@ -34,5 +38,17 @@ Abrir Visual Studio Code.
 Al hacer clic en la opción de "archivo", despliega un menú y escogemos la opción "Abrir carpeta".
 Buscamos la ruta o espacio donde Extraimos el proyecto, lo seleccionamos y damos clic en "Seleccionar Carpeta".
 Y listo tendran cargado el proyecto en Visual Studio Code.
+
+
+
+
+
+
+
+
+Funcionamiento de la app
+
+
+ Despues de esta inicioado el programa desde visual de inicio les mostrara una bienvenida y una pequeña intro tambien podran observar las opciones que se le ofrecen ![image](https://github.com/user-attachments/assets/34f651b5-ecad-48fa-9b28-9c7a8dd7173c) 
 
 
